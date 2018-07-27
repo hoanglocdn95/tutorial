@@ -1,2 +1,3 @@
 dsffds
 commit: thay doi tu local, luu lai trang thai edit
+pull: lay tu remote
